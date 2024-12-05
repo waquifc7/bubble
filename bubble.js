@@ -1,7 +1,7 @@
 let time = 30
 let score =0
 let hitrn =0
-
+let kol =0
 function scoreinc(){
 score += 10
 document.querySelector("#score").textContent =score
